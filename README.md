@@ -24,11 +24,20 @@ Visual feedback of sensor health and system status using an RGB LED.
 ## Requirements
 ### Hardware:
 
+<div align="center">
+    <img src="mbed.png" alt="Description" width="400"/>
+</div>
+
 Microcontroller (e.g., STM32, Arduino, etc.)
+
 GPS Module (e.g., NEO-6M)
+
 Soil Moisture Sensor
+
 Light Sensor (e.g., TCS3472)
+
 RGB LED
+
 Push button (for mode switching)
 
 ### Software:
