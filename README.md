@@ -74,8 +74,6 @@ Ensure the GPS module is properly connected and has a clear line of sight to the
 ### Sensor Not Working
 Check the wiring and sensor connections. If any sensor is not functioning, the system will print an error message indicating which sensor is unavailable.
 Incorrect Output Values: Verify that all sensors are correctly calibrated and receiving power.
-## Contributing
-Contributions are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
 
-License
-This project is open-source and available under the MIT License.
+## License
+This project is open-source. The authors are Stefano Morano and Ana Daria Corpaci. This project is for the Embedded PLatforms for IoT course in Universidad Politecnica de Madrid.
