@@ -85,4 +85,4 @@ Check the wiring and sensor connections. If any sensor is not functioning, the s
 Incorrect Output Values: Verify that all sensors are correctly calibrated and receiving power.
 
 ## License
-This project is open-source. The authors are Stefano Morano and Ana Daria Corpaci. This project is for the Embedded PLatforms for IoT course in Universidad Politecnica de Madrid.
+This project is open-source. The authors are Stefano Morano and Ana Daria Corpaci. This project was made for the Embedded Platforms for IoT course in Universidad Politecnica de Madrid.
